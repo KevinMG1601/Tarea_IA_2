@@ -9,6 +9,8 @@
 | **model/** | Modelos entrenados (RNN y LSTM) |Contiene los archivos de exportación de los modelos RNN y LSTM. |
 | **notebooks/** | Código en Jupyter Notebooks |Contiene los notebooks de procesamiento y entrenamiento: <br> - `data_prep_edge_impulse_json.ipynb` → Limpieza, normalización y segmentación de datos. <br> - `rnn_lstm_timeseries_classification.ipynb` → Entrenamiento, evaluación y visualización de resultados. |
 
+## Evidencia de los datos capturados 
+![Imagen de edge impulse](/assets/evidencia.png)
 
 ## 1. Crear un entorno virtual
 
